@@ -7,27 +7,22 @@
 
 ---
 
-### 🚀 核心传送门
+## 🌟 核心大本营 (最全教程都在这)
 
-这里是我最活跃的地方，欢迎光临：
+### 🏠 [暖暖の小窝](http://www.nuan1145.eu.cc/)
 
-| 🏠 **个人大本营** | 🔗 **地址** | 📝 **说明** |
-| :--- | :--- | :--- |
-| **暖暖の小窝** | [**www.nuan1145.eu.cc**](http://www.nuan1145.eu.cc/) | 我的个人博客，汇集所有详细教程与心得 |
-| **资源导航站** | [**nuannuan-tools.vercel.app**](https://nuannuan-tools.vercel.app/) | 精选工具、软件、常用网站的一站式入口 |
+> **👉 访问地址：[http://www.nuan1145.eu.cc/](http://www.nuan1145.eu.cc/)**
+
+**这是我唯一的个人博客，汇集了所有详细教程、软件分享与折腾心得。**
+如果你在寻找视频中提到的资源或文字版教程，请务必来这里看看！
 
 ---
 
-### 🛠️ 我经常折腾的工具 & 技术
+### 🚀 其他传送门
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-232F3E?style=flat-square&logo=openwrt&logoColor=white)
-![Halo](https://img.shields.io/badge/Blog-Halo-blue?style=flat-square)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+| 🔗 **站点名称** | 📝 **说明** |
+| :--- | :--- |
+| **[个人资源导航站](https://nuannuan-tools.vercel.app/)** | 精选工具、软件、常用网站的一站式入口，方便快速查找。 |
 
 ---
 
