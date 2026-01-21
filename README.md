@@ -14,7 +14,6 @@
 > **👉 访问地址：[http://www.nuan1145.eu.cc/](http://www.nuan1145.eu.cc/)**
 
 **这是我唯一的个人博客，汇集了所有详细教程、软件分享与折腾心得。**
-如果你在寻找视频中提到的资源或文字版教程，请务必来这里看看！
 
 ---
 
@@ -43,25 +42,15 @@
 
 ---
 
-### 🧰 自用工具 & 资源库
-
-* **📦 个人资源站 (综合导航)**：【👉 [点此访问](https://nuannuan-tools.vercel.app/)】
-* **☁️ PikPak 磁力下载**：【⚡️ [点击注册](https://mypikpak.com/drive/activity/invited?invitation-code=66396543)】
-* **📂 123 网盘资源**：【📂 [点击查看](https://www.123684.com/s/R2hjVv-6Pg13) 】*(提取码: NUAN)*
-* **🔧 自用内网穿透工具**：【👉 [立即试用](https://www.cpolar.com/?channel=0&invite=6DaX)】
-
-### 🛒 流量 & 账号服务
-
-* **📶 正规运营商流量卡**：【📶 [点击下单](https://www.51haoka.cc/index?k=YktYNmtrWTN2R1k9)】
-* **💳 Bitget Wallet (免费外币卡)**：【👉 [点击申请](https://web3.bitget.com/share/1gWULE?inviteCode=NUAN1145)】
-* **🔶 币安 (Binance) 交易所**：【💰 [注册领新手礼](https://www.bmwweb.academy/referral/earn-together/refer2earn-usdc/claim?hl=zh-TC&ref=GRO_28502_RAE9X&utm_source=default)】
-* **🍎 Apple ID / 充值卡 / 代理**：【🍎 [购买链接](https://goso002.com/?from=24529)】
-* **🌍 海外账号 / AI / 流媒体 / 游戏**：【🛍️ [购买链接](https://accboyytbnn.acceboy.com/)】
-
-### 🚀 网络加速
-
-* **🌐 自用机场推荐**：【🌐 [查看详情](https://t.me/NUAN114514/5)】
-
 ---
 
-> ⚠️ **提示**：部分资源链接可能随时间失效，请以我的 TG 频道最新动态为准。
+## 📮 联系我 & 宝藏资源
+
+| 🏷️ **分类** | 🔗 **资源传送门** |
+| :--- | :--- |
+| **✈️ 社交基地** | [📢 TG 频道 (资源发布)](https://t.me/NUAN114514) &nbsp;\|&nbsp; [💬 TG 群组 (吹水交流)](https://t.me/MSC4652) |
+| **🧰 必备神器** | [📦 暖暖综合资源站](https://nuannuan-tools.vercel.app/) &nbsp;\|&nbsp; [☁️ PikPak 网盘](https://mypikpak.com/drive/activity/invited?invitation-code=66396543) &nbsp;\|&nbsp; [📂 123 盘](https://www.123684.com/s/R2hjVv-6Pg13) &nbsp;\|&nbsp; [🔧 内网穿透](https://www.cpolar.com/?channel=0&invite=6DaX) |
+| **🛒 账号流量** | [📶 正规流量卡](https://www.51haoka.cc/index?k=YktYNmtrWTN2R1k9) &nbsp;\|&nbsp; [💳 虚拟外币卡](https://web3.bitget.com/share/1gWULE?inviteCode=NUAN1145) &nbsp;\|&nbsp; [🍎 Apple ID](https://goso002.com/?from=24529) &nbsp;\|&nbsp; [🌍 流媒体/游戏](https://accboyytbnn.acceboy.com/) |
+| **🚀 网络科学** | [🌐 自用机场推荐](https://t.me/NUAN114514/5) &nbsp;\|&nbsp; [🔶 币安交易所](https://www.bmwweb.academy/referral/earn-together/refer2earn-usdc/claim?hl=zh-TC&ref=GRO_28502_RAE9X&utm_source=default) |
+
+---
