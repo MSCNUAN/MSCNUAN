@@ -41,7 +41,7 @@
 | :--- | :--- |
 | **✈️ 社交基地** | [📢 TG 频道 (资源发布)](https://t.me/NUAN114514) &nbsp;\|&nbsp; [💬 TG 群组 (吹水交流)](https://t.me/MSC4652) |
 | **🧰 必备神器** | [📦 暖暖综合资源站](https://nuannuan-tools.vercel.app/) &nbsp;\|&nbsp; [☁️ PikPak 网盘](https://mypikpak.com/drive/activity/invited?invitation-code=66396543) &nbsp;\|&nbsp; [📂 123 盘](https://www.123684.com/s/R2hjVv-6Pg13) &nbsp;\|&nbsp; [🔧 内网穿透](https://www.cpolar.com/?channel=0&invite=6DaX) |
-| **🛒 账号流量** | [📶 正规流量卡](https://www.51haoka.cc/index?k=YktYNmtrWTN2R1k9) &nbsp;\|&nbsp; [💳 虚拟外币卡](https://web3.bitget.com/share/1gWULE?inviteCode=NUAN1145) &nbsp;\|&nbsp; [🍎 Apple ID](https://goso002.com/?from=24529) &nbsp;\|&nbsp; [🌍 流媒体/游戏](https://accboyytbnn.acceboy.com/) |
+| **🛒 账号流量** | [📶 正规流量卡]([https://www.51haoka.cc/index?k=YktYNmtrWTN2R1k9](https://bankala.cn/s/f25188b9)) &nbsp;\|&nbsp; [💳 虚拟外币卡](https://web3.bitget.com/share/1gWULE?inviteCode=NUAN1145) &nbsp;\|&nbsp; [🍎 Apple ID](https://goso002.com/?from=24529) &nbsp;\|&nbsp; [🌍 流媒体/游戏](https://accboyytbnn.acceboy.com/) |
 | **🚀 网络科学** | [🌐 自用机场推荐](https://t.me/NUAN114514/5) &nbsp;\|&nbsp; [🔶 币安交易所](https://www.bmwweb.academy/referral/earn-together/refer2earn-usdc/claim?hl=zh-TC&ref=GRO_28502_RAE9X&utm_source=default) |
 
 ---
