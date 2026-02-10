@@ -25,7 +25,7 @@
 
 ### 📊 GitHub 统计
 
-![Nuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCNUAN&show_icons=true&theme=radical&hide_border=true)
+![Nuan's GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
