@@ -2,7 +2,7 @@
   
 # ⚡ 欢迎链接到终端，我是暖暖 👋
 
-> 💻 **System Status:** `Running` | 🚀 **Mission:** `让折腾变得简单有趣` | 🌌 **Role:** `B站/油管 视频创作者`
+> 💻 **System Status:** `Running` | 🚀 **Mission:** `让折腾变得简单有趣` | 🌌 **Role:** `油管 视频创作者`
 </div>
 
 > 🤖 **System.Log:** `[Status: Online] 🟢`
