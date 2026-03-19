@@ -33,7 +33,7 @@
 ## 📊 终端数据面板 [GitHub_Stats]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nuan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSCNUAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nuan's GitHub Stats" />
 </div>
 
 *(⚠️ 注意：记得把上方链接里的 `你的GitHub用户名` 换成你真正的 GitHub ID 哦！)*
