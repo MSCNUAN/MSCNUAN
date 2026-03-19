@@ -2,8 +2,7 @@
   
 # ⚡ 欢迎链接到终端，我是暖暖 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+%E4%B8%93%E6%B3%A8%E4%BA%8E%E2%80%9C%E5%B0%8F%E7%99%BD%E5%90%91%E2%80%9D%E7%A7%91%E6%99%AE;%F0%9F%9A%80+%E8%AE%A9%E6%8A%98%E8%85%BE%E5%8F%98%E5%BE%97%E7%AE%80%E5%8D%95%E6%9C%89%E8%B6%A3;%F0%9F%8C%8C+B%E7%AB%99%2F%E6%B2%B9%E7%AE%A1+%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E8%80%85" alt="Typing SVG" />
-
+> 💻 **System Status:** `Running` | 🚀 **Mission:** `让折腾变得简单有趣` | 🌌 **Role:** `B站/油管 视频创作者`
 </div>
 
 > 🤖 **System.Log:** `[Status: Online] 🟢`
