@@ -32,7 +32,7 @@
 ## 📊 终端数据面板 [GitHub_Stats]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSCNUAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nuan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NUAN4652&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nuan's GitHub Stats" />
 </div>
 
 ---
