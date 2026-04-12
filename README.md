@@ -19,7 +19,7 @@
 > 👉 **[初始化连接... 访问主站](http://www.nuan1145.eu.cc/)**
 
 这是我唯一的个人博客基地！汇集了所有详细教程、软件分享与折腾心得。
-[![Blog](https://img.shields.io/badge/Web-暖暖の小窝-00FFCC?style=for-the-badge&logo=icloud&logoColor=black)](http://www.nuan1145.eu.cc/)
+[![博客](https://img.shields.io/badge/Web-暖暖の小窝-00FFCC?style=for-the-badge&logo=icloud&logoColor=black)](http://www.nuan1145.eu.cc/)
 
 ### 📦 个人资源导航站 
 > 👉 **[建立通道... 访问导航](https://nuan1142.cpolar.top/)**
@@ -46,7 +46,7 @@
 | **✈️ 社交基地** | [📢 TG 频道 (资源发布)](https://t.me/NUAN114514) &nbsp;\|&nbsp; [💬 TG 群组 (吹水交流)](https://t.me/MSC4652) |
 | **🧰 必备神器** | [📦 暖暖综合资源站](https://nuan1142.cpolar.top/) &nbsp;\|&nbsp; [☁️ PikPak 网盘](https://mypikpak.com/drive/activity/invited?invitation-code=66396543) &nbsp;\|&nbsp; [📂 123 盘](https://www.123684.com/s/R2hjVv-6Pg13) &nbsp;\|&nbsp; [🔧 内网穿透](https://www.cpolar.com/?channel=0&invite=6DaX) |
 | **🛒 账号流量** | [📶 号卡点击下单](https://bankala.cn/s/f25188b9) &nbsp;\|&nbsp; [💳 虚拟外币卡](https://web3.bitget.com/share/1gWULE?inviteCode=NUAN1145) &nbsp;\|&nbsp; [🍎 Apple ID 商店](https://goso002.com/?from=24529) &nbsp;\|&nbsp; [🌍 流媒体合租](https://accboyytbnn.acceboy.com/) |
-| **🚀 网络科学** | [🌐 自用机场推荐](https://t.me/NUAN114514/5) &nbsp;\|&nbsp; [🔶 币安交易所](https://www.bmwweb.academy/referral/earn-together/refer2earn-usdc/claim?hl=zh-TC&ref=GRO_28502_RAE9X&utm_source=default) |
+| **🚀 网络科学** | [🌐 自用机场推荐](https://t.me/NUAN114514/5) &nbsp;\|&nbsp; [🔶 币安交易所](https://www.bsmkweb.cc/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_RAE9X&utm_source=referral_entrance) |
 
 ---
 <div align="center">
