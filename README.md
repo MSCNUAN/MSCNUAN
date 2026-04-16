@@ -37,7 +37,7 @@
 | :--- | :--- |
 | **✈️ 社交基地** | [📢 TG 频道 (资源发布)](https://t.me/NUAN114514) &nbsp;\|&nbsp; [💬 TG 群组 (吹水交流)](https://t.me/MSC4652) |
 | **🧰 必备神器** | [📦 暖暖综合资源站](https://nuan1142.cpolar.top/) &nbsp;\|&nbsp; [☁️ PikPak 网盘](https://mypikpak.com/drive/activity/invited?invitation-code=66396543) &nbsp;\|&nbsp; [📂 123 盘](https://www.123684.com/s/R2hjVv-6Pg13) &nbsp;\|&nbsp; [🔧 内网穿透](https://www.cpolar.com/?channel=0&invite=6DaX) |
-| **🛒 账号流量** | [📶 号卡点击下单](https://bankala.cn/s/f25188b9) &nbsp;\|&nbsp; [💳 虚拟外币卡](https://www.bitmart.com/zh-CN/invite/ctVj68) &nbsp;\|&nbsp; [🍎 Apple ID 商店](https://goso002.com/?from=24529) &nbsp;\|&nbsp; [🌍 流媒体合租](https://accboyytbnn.acceboy.com/) |
+| **🛒 账号流量** | [📶 号卡点击下单](https://bankala.cn/s/f25188b9) &nbsp;\|&nbsp; [💳 免费外币卡](https://www.bitmart.com/zh-CN/invite/ctVj68) &nbsp;\|&nbsp; [🍎 Apple ID 商店](https://goso002.com/?from=24529) &nbsp;\|&nbsp; [🌍 流媒体合租](https://accboyytbnn.acceboy.com/) |
 | **🚀 网络科学** | [🌐 自用机场推荐](https://t.me/NUAN114514/5) &nbsp;\|&nbsp; [🔶 币安交易所](https://www.bsmkweb.cc/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_RAE9X&utm_source=referral_entrance) |
 
 ---
