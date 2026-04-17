@@ -22,7 +22,7 @@
 [![博客](https://img.shields.io/badge/Web-暖暖の小窝-00FFCC?style=for-the-badge&logo=icloud&logoColor=black)](http://www.nuan1145.eu.cc/)
 
 ### 📦 个人资源导航站 
-> 👉 **[建立通道... 访问导航](https://nuan1142.cpolar.top/)**
+> 👉 **[建立通道... 访问导航](https://tools.nuan1145.eu.cc/)**
 
 精选工具、软件、常用网站的一站式入口，方便快速查找，老司机必备的百宝箱。
 [![Tools](https://img.shields.io/badge/Tools-资源导航站-FF00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nuan1142.cpolar.top/)
