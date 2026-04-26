@@ -115,18 +115,18 @@ NuanNuan.exe is running...
 | 分类 | 入口 |
 | :---: | :--- |
 | ✈️ 社交基地 | [TG 频道：资源发布](https://t.me/NUAN114514) ｜ [TG 群组：吹水交流](https://t.me/MSC4652) |
-| 🧰 常用资源 | [暖暖综合资源站](https://nuan1142.cpolar.top/) ｜ [PikPak 网盘](https://mypikpak.com/drive/activity/invited?invitation-code=66396543) ｜ [123 盘](https://www.123684.com/s/R2hjVv-6Pg13) |
+| 🧰 常用资源 | [暖暖综合资源站](https://nuannuan-tools.vercel.app/) ｜ [PikPak 网盘](https://mypikpak.com/drive/activity/invited?invitation-code=66396543) ｜ [123 盘](https://www.123684.com/s/R2hjVv-6Pg13) |
 | 🔧 工具服务 | [内网穿透 cpolar](https://www.cpolar.com/?channel=0&invite=6DaX) ｜ [个人资源导航站](https://tools.nuan1145.eu.cc/) |
-| 🌐 网络工具 | [相关教程与说明](https://t.me/NUAN114514/5) |
+| 🌐 网络工具 | [自用机场推荐](https://t.me/NUAN114514/5) |
 
 <details>
 <summary>📌 其他合作 / 推广入口</summary>
 
 > 这类入口建议按需查看。涉及账号、支付、金融类服务时，请先确认平台规则、年龄要求和当地规定。
 
-- [号卡入口](https://bankala.cn/s/f25188b9)
-- [Apple ID 商店](https://goso002.com/?from=24529)
-- [流媒体合租](https://accboyytbnn.acceboy.com/)
+- [流量卡入口](https://bankala.cn/s/f25188b9)
+- [苹果账号购买](https://goso002.com/?from=24529)
+- [流媒体](https://accboyytbnn.acceboy.com/)
 
 </details>
 
