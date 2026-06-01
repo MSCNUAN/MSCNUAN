@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/stars/MSCNUAN?style=for-the-badge&label=Stars&color=FFD6E7" alt="GitHub stars" />
 </p>
 
-> 🟢 **System Status:** `Online`  
+> 🟢 **System Status:** `开line`  
 > 🌌 **Mission:** `让折腾变得简单有趣`  
 > 🎀 **Role:** `YouTube 教程创作者 / 个人博客主 / 资源整理爱好者`
 
@@ -124,9 +124,13 @@ NuanNuan.exe is running...
 
 > 这类入口建议按需查看。涉及账号、支付、金融类服务时，请先确认平台规则、年龄要求和当地规定。
 
+
 - [流量卡入口](https://bankala.cn/s/f25188b9)
+- [Xesim 卡购买链接](https://xesim.cc/?DIST=RUBBH1k%3D) `9折优惠码：NUAN`
 - [苹果账号购买](https://goso002.com/?from=24529)
 - [流媒体](https://accboyytbnn.acceboy.com/)
+```
+
 
 </details>
 
